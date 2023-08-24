@@ -1,0 +1,2 @@
+# AlgoViz
+Sorting algorithms Vizualizer
